@@ -12,4 +12,4 @@ Most of the views are taken from uncle Bob's youtube videos to name a few is in 
 
 ### Contact me
 [LinkedIN](https://www.linkedin.com/in/muslimilmiawan/) ||
-[muslim.ilmiawan@gmail.com](mailto:muslim.ilmiawan@gmail.com)
+[Email](mailto:muslim.ilmiawan@gmail.com)
