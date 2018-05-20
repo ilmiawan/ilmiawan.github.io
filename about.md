@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer with more than 10 years of experience in the Information Technology field. Mostly working with Java, spring framework, struts and hibernate. Interested more on the Clean Architecture, SOLID Design and TDD implementation in every languages. HUGE fan of uncle Bob (Robert C. Martin).
+I am a software engineer with more than 10 years of experience in the Information Technology field. Mostly working with Java, very much interested in refining my own skills and expertise in the field of software engineering. Interested more on the Clean Architecture, SOLID Design and TDD implementation in every languages. HUGE fan of uncle Bob (Robert C. Martin).
 
 ### More Information
 
