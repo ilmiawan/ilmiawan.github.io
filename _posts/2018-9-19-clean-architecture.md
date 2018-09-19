@@ -11,7 +11,7 @@ One of the concept is _Clean Architecture_. An architecture that is designed for
 
 _"The first concern of the architect is to make sure that the application is usable, it isn't to ensure what it was made of."-uncle bob-_
 
-**A Clean Architecture** - should be based on the domain centric with a clear separation of concerns. Layers of concerns are kept or made for a clear separations. i.e: 
+_**A Clean Architecture**_ - should be based on the domain centric with a clear separation of concerns. Layers of concerns are kept or made for a clear separations. i.e: 
 
 **1. Presentation Layer**: Deals directly with user, taking in requests and sending out response to the users.
 
