@@ -36,7 +36,7 @@ We will be using the [jest-mock](https://jestjs.io/docs/manual-mocks) to mock th
 
 First we need to create a mock file for pg.
 
-```typescript
+```typescript title="src/__mocks__/pg.ts"
 const mockQuery = jest.fn();
 const mockRelease = jest.fn();
 
