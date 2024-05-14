@@ -9,7 +9,7 @@ In this post, I will be explaining how to mock the pg and sqlite3 library with J
 
 Create a new file `src/index.ts` and add the following code.
 
-```typescript
+```typescript title="src/index.ts"
 import * as pg from "pg";
 import * as sqlite3 from "sqlite3";
 
@@ -58,7 +58,7 @@ module.exports = { Pool: MockPool };
 
 And then we will create a mock file for sqlite3.
 
-```typescript
+```typescript title="src/__mocks__/sqlite.ts"
 const mockDatabaseAll = jest.fn();
 const mockDatabaseRun = jest.fn();
 const mockDatabaseGet = jest.fn();
@@ -89,7 +89,7 @@ module.exports = { Database: MockDatabase };
 
 Now we will create a test file and use the mock. create a new file `__tests__/index.test.ts` and add the following code.
 
-```typescript
+```typescript title="src/__tests__/index.test.ts"
 import { Pool } from 'pg';
 import { Database } from 'sqlite3';
 import { mockDatabase, mockDatabaseAll } from './mockSqlite3';
