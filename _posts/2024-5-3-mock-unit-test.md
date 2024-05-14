@@ -58,7 +58,7 @@ module.exports = { Pool: MockPool };
 
 And then we will create a mock file for sqlite3.
 
-```typescript title="src/__mocks__/sqlite.ts"
+```typescript title="src/\_\_mocks\_\_/sqlite.ts"
 const mockDatabaseAll = jest.fn();
 const mockDatabaseRun = jest.fn();
 const mockDatabaseGet = jest.fn();
